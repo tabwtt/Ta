@@ -1,12 +1,4 @@
-‏#!/usr/bin/env python3
-‏# -*- coding: utf-8 -*-
-
-"""
-ئیبن ڕەشید - ئامرازی فێرکاری (نوێکراوە بە instagrapi 2.3.0)
-تەنها بۆ مەبەستی فێرکاری - بەکارهێنانی نایاسایی قەدەغەیە
-"""
-
-‏import os
+import os
 ‏import sys
 ‏import json
 ‏import time
